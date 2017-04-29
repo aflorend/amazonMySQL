@@ -21,13 +21,13 @@ node bamazonManager
 ###### Note:
 Bamazon requires config.js to export your MySQL configuration object. Please create your own using the example below:
 
-	```JavaScript
-	module.exports = {
-	  host: 'localhost',
-	  port: 3306,
-	  user: 'root',
-	  password: '',
-	  database: 'Bamazon'
-	};
-	```
+```JavaScript
+module.exports = {
+  host: 'localhost',
+  port: 3306,
+  user: 'root',
+  password: '',
+  database: 'Bamazon'
+};
+```
 ---

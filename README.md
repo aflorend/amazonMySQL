@@ -1,10 +1,10 @@
 # amazonMySQL
 
-###Overview
+### Overview
 
 Bamazon is a storefont powered by Node and MySQL that allows users to display, purchase, update, and manage store items.
 
-###Instructions
+### Instructions
 
 Bamazon can be used as either a customer or a manager. To purchase items as a customer, start the store by typing in the Terminal:
 
@@ -18,7 +18,7 @@ Otherwise, to start Bamazon as a manager, type into the Terminal:
 node bamazonManager
 ```
 ---
-######Note:
+###### Note:
 Bamazon requires config.js to export your MySQL configuration object. Please create your own using the example below:
 
 	```JavaScript
